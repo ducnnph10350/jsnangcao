@@ -9,4 +9,4 @@ const Nav = {
         </nav>`
 };
 
-export default Nav;x
+export default Nav;
